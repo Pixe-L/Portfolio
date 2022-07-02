@@ -1,0 +1,21 @@
+/* Main Home */
+
+nav .logo__img {
+ width: 200px;
+}
+
+.last-project__descrip {
+ padding: 0;
+}
+
+/* Main Perfil */
+
+.perfils {
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+}
+
+.img-perfil {
+ width: 250px;
+}
