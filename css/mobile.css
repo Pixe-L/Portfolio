@@ -56,12 +56,15 @@ nav .perfil__item {
  margin-bottom: 10px;
 }
 
-.perfil-mobil {
- text-align: center;
+.navigation-blogs {
+ position: relative;
+ padding: 0;
 }
 
-.navigation-blogs {
- text-align: center;
+.perfil-mobil {
+ position: absolute;
+ top: calc(50% - 60px);
+ left: calc(50% - 60px);
 }
 
 /* Main Perfil */
